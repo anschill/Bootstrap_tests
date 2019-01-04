@@ -1,0 +1,23 @@
+div
+{
+  text-align: center;
+  color: white;
+}
+
+.col-sm-4
+{
+  border: 1px solid white;
+}
+
+.col-sm-6:first-child
+{
+  border-right: 1px solid white;
+}
+
+@media screen and (min-width: 200px) and (max-width: 640px)
+{
+  div.col-sm-6:first-child
+  {
+    border-bottom: 2px solid white;
+  }
+}
