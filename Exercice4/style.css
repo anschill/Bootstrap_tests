@@ -3,11 +3,6 @@
   padding: 50px;
 }
 
-.row
-{
-  justify-content: center;
-}
-
 .btn
 {
   transition: all 1.5s;

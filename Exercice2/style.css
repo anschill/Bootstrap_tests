@@ -1,4 +1,4 @@
-div
+/* div
 {
   text-align: center;
   color: white;
@@ -11,7 +11,7 @@ div
 
 .col-sm-6:first-child
 {
-  border-right: 1px solid white;
+  border-right: 0.1px solid white;
 }
 
 @media screen and (min-width: 200px) and (max-width: 640px)
@@ -20,4 +20,4 @@ div
   {
     border-bottom: 2px solid white;
   }
-}
+} */
